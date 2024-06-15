@@ -1,0 +1,15 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+body {
+    background-color: rgb(32, 42, 57) !important;
+}
+
+
+
+.bg-clip-text {
+    -webkit-background-clip: text;
+    background-clip: text;
+}
